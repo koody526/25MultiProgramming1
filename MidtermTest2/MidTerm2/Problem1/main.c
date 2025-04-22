@@ -14,7 +14,7 @@ int main() {
     int result;
 
     // 2. 본인의 예상 점수를 여기 입력
-    int myScore = 80;  // 예시: 예상 점수 80점
+    int myScore = 68;  // 예시: 예상 점수 68점
 
     result = PassOrFail(myScore);  // 함수 호출
 
